@@ -1,2 +1,3 @@
 This is my hello world text file.
 Now I'll try making a change on my own.
+And another one to take a closer look at commit messages.
